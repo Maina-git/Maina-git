@@ -7,11 +7,6 @@ I have skills in HTML5, CSS3, Javacsript, React and Firebase for Backend service
 <h1 align="center">Hi 👋, I'm Francis</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
-- 🌱 I’m currently learning **In Next JS**
-
-- 💬 Ask me about **React**
-
-- 📫 How to reach me **francismm2023@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
