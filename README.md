@@ -12,6 +12,10 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Maina-git&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Francis Mainaa's GitHub Trophies" />
+</p>
+
+<p align="center">
   <a href="https://github.com/Maina-git">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Maina-git&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="Maina-git's GitHub Stats" />
   </a>
