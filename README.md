@@ -1,10 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Mainaa&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Francis%20Mainaa&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Maina-git">
     <img src="https://komarev.com/ghpvc/?username=Maina-git&label=Profile%20views&color=00FFFF&style=flat-square" alt="Maina-git's profile views" />
   </a>
 </p>
+
+## 🧠 My Focus Areas
+- Web Development
+
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -14,7 +18,7 @@
   <img src="https://streak-stats.demolab.com/?user=Maina-git&theme=dracula&hide_border=true&cache_seconds=86400" alt="Maina-git's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Maina-git&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Mainaa's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=Maina-git&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Francis Mainaa's GitHub Trophies" />
 </p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Maina-git&theme=dracula&radius=10" alt="Maina-git's Activity Graph" />
@@ -48,8 +52,7 @@
 </p>
 
 ## 🔗 Connect with Me
-<p align="left"> <a href="https://wa.me/2540793720578" target="_blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a></p>
+<p align="center"><a href="linkedin.com/in/francis-mainaa-2116342b2" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/2540793720578" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:francismm2023@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://https/mainaasites.netl/fv.app/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
 <p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
-
 
