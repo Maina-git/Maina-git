@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maina-git" alt="maina-git" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at [https://code-with-mainaa-3m5a.vercel.app/](https://code-with-mainaa-3m5a.vercel.app/)
 
