@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mainaa</h1>
-<h3 align="center">A passionate Software Developer from Kenya</h3>
+<h3 align="center">A passionate Software Developer & ML Engineer</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800"/>
