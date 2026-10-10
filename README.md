@@ -2,7 +2,11 @@
 <h3 align="center">A passionate Software Developer & ML Engineer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Software+Engineer;React+%2B+TypeScript+%2B+Firebase;Learning+Docker+%26+DevOps" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,nginx,bash,react,ts,tailwind,firebase" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maina-git&label=Profile%20views&color=0e75b6&style=flat" alt="maina-git" /> </p>
