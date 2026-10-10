@@ -12,11 +12,13 @@
   <img src="https://komarev.com/ghpvc/?username=maina-git&label=Profile%20views&color=A855F7&style=flat-square" alt="Profile views" />
 </p>
 
-<!-- Optional GIF: find one on giphy.com, copy the link ending in .gif, then uncomment
 <p align="center">
-  <img src="PASTE_GIF_LINK_HERE.gif" width="600" alt="DevOps animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=1200&color=EC4899&center=true&vCenter=true&width=480&height=50&lines=%24+docker+build+-t+app+.;%24+docker+run+-d+-p+3001%3A3000+app;%24+git+push+-u+origin+main" alt="Terminal" />
 </p>
--->
+
+<p align="center">
+  <img src="https://media.giphy.com/media/2bUsKlqwifCse3lsX4/giphy.gif" width="360" alt="DevOps animation" />
+</p>
 
 ---
 
