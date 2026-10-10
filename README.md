@@ -1,44 +1,74 @@
-<h1 align="center">Hi 👋, I'm Mainaa</h1>
-<h3 align="center">A passionate Software Developer & ML Engineer</h3>
+<h1 align="center">Hi, I'm Mainaa</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Software+Engineer;React+%2B+TypeScript+%2B+Firebase;Learning+Docker+%26+DevOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=F97316&center=true&vCenter=true&width=520&lines=Software+Developer;ML+Engineer;Currently+learning+DevOps" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,nginx,bash,react,ts,tailwind,firebase" />
+  <img src="https://komarev.com/ghpvc/?username=maina-git&label=Profile%20views&color=F97316&style=flat-square" alt="Profile views" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maina-git&label=Profile%20views&color=0e75b6&style=flat" alt="maina-git" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maina-git" alt="maina-git" /></a> </p>
+### About
 
-- 🌱 I’m currently learning **Backend Web Development & Fast API**
+- Currently learning **DevOps**: Docker, CI/CD with GitHub Actions, Linux and Nginx
+- Ask me about the **MERN stack**
+- All my projects are at [code-with-mainaa-3m5a.vercel.app](https://code-with-mainaa-3m5a.vercel.app/)
+- Reach me at **francismm2023@gmail.com**
+- Fun fact: I vibecode
 
-- 👨‍💻 All of my projects are available at [https://code-with-mainaa-3m5a.vercel.app/](https://code-with-mainaa-3m5a.vercel.app/)
+### Connect
 
-- 💬 Ask me about **Mern Stack**
-
-- 📫 How to reach me **francismm2023@gmail.com**
-
-- ⚡ Fun fact **vibecoding**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/francis-mainaa-2116342b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/francis-mainaa-2116342b2" height="30" width="40" /></a>
-<a href="https://instagram.com/mainah346" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mainah346" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/60100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="60100" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/francis-mainaa-2116342b2"><img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/mainah346"><img src="https://img.shields.io/badge/Instagram-111827?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.topcoder.com/members/60100"><img src="https://img.shields.io/badge/Topcoder-111827?style=flat-square&logo=topcoder&logoColor=white" alt="Topcoder" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/mainagit"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mainagit" /></a><a href="https://ko-fi.com/mainaa"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mainaa" /></a></p><br><br>
+### Tech stack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maina-git&show_icons=true&locale=en&layout=compact" alt="maina-git" /></p>
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind,bootstrap,sass,redux,figma" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maina-git&show_icons=true&locale=en" alt="maina-git" /></p>
+**Backend and databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,py,mongodb,firebase,postman" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maina-git&" alt="maina-git" /></p>
+**Machine learning**
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" height="48" alt="scikit-learn" />
+</p>
 
+**DevOps (learning)**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,nginx,bash" />
+</p>
+
+---
+
+### GitHub stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=maina-git&show_icons=true&hide_border=true&bg_color=00000000&title_color=F97316&icon_color=F97316&text_color=8b949e" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maina-git&layout=compact&hide_border=true&bg_color=00000000&title_color=F97316&text_color=8b949e" alt="Top languages" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=maina-git&hide_border=true&background=00000000&ring=F97316&fire=F97316&currStreakNum=8b949e&sideNums=8b949e&currStreakLabel=F97316&sideLabels=8b949e&dates=8b949e" alt="Streak" />
+</p>
+
+---
+
+### Support
+
+<p>
+  <a href="https://www.buymeacoffee.com/mainagit"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-F97316?style=flat-square&logo=buymeacoffee&logoColor=white" alt="Buy me a coffee" /></a>
+  <a href="https://ko-fi.com/mainaa"><img src="https://img.shields.io/badge/Ko--fi-F97316?style=flat-square&logo=kofi&logoColor=white" alt="Ko-fi" /></a>
+</p>
