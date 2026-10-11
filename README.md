@@ -49,7 +49,7 @@
 
 **Backend and databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,py,mongodb,firebase,postman" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,py,mongodb,firebase,supabase,postgres,postman" />
 </p>
 
 **Machine learning**
