@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:A855F7,100:EC4899&height=140&section=header&animation=fadeIn" width="100%" alt="" />
 </p>
 
-<h1 align="center">Hi, I'm Mainaa</h1>
+<h1 align="center">Hi, I'm FRANCIS</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=A855F7&center=true&vCenter=true&width=520&lines=Software+Developer;ML+Engineer;Currently+learning+DevOps" alt="Typing SVG" />
