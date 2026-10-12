@@ -31,21 +31,19 @@
 - Fun fact: I vibecode
 
 ### Connect
-
 <p align="left">
   <a href="https://linkedin.com/in/francis-mainaa-2116342b2">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="28" height="28" />
   </a>
   &nbsp;
   <a href="https://instagram.com/mainah346">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="40" height="40" />
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="28" height="28" />
   </a>
   &nbsp;
   <a href="https://www.topcoder.com/members/60100">
-    <img src="https://cdn.simpleicons.org/topcoder/29A7DF" alt="Topcoder" width="40" height="40" />
+    <img src="https://cdn.simpleicons.org/topcoder/29A7DF" alt="Topcoder" width="28" height="28" />
   </a>
 </p>
-
 ---
 
 ### Tech stack
