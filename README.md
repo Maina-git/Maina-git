@@ -33,9 +33,17 @@
 ### Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/francis-mainaa-2116342b2"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/mainah346"><img src="https://img.shields.io/badge/Instagram-A855F7?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.topcoder.com/members/60100"><img src="https://img.shields.io/badge/Topcoder-EC4899?style=flat-square&logo=topcoder&logoColor=white" alt="Topcoder" /></a>
+  <a href="https://linkedin.com/in/francis-mainaa-2116342b2">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/mainah346">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="40" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://www.topcoder.com/members/60100">
+    <img src="https://cdn.simpleicons.org/topcoder/29A7DF" alt="Topcoder" width="40" height="40" />
+  </a>
 </p>
 
 ---
