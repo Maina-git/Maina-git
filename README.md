@@ -32,7 +32,7 @@
 
 ### Connect
 <p align="left">
-  <a href="https://linkedin.com/in/francis-mainaa-2116342b2">
+  <a href="https://www.linkedin.com/in/francis-maina-2116342b2/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="28" height="28" />
   </a>
   &nbsp;
