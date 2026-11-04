@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=1200&color=EC4899&center=true&vCenter=true&width=480&height=50&lines=%24+docker+build+-t+app+.;%24+docker+run+-d+-p+3001%3A3000+app;%24+git+push+-u+origin+main" alt="Terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=1200&color=EC4899&center=true&vCenter=true&width=480&height=50&lines=%24+docker+build+-t+app+.;%24+docker+run+-d+-p+3001%3A3000+app;%24+kubectl+apply+-f+deployment.yaml;%24+git+push+-u+origin+main" alt="Terminal" />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ### About
 
-- Currently learning **DevOps**: Docker, CI/CD with GitHub Actions, Linux and Nginx
+- Currently learning **DevOps**: Docker, Kubernetes, CI/CD with GitHub Actions, Linux and Nginx
 - Ask me about the **MERN stack**
 - All my projects are at [code-with-mainaa-3m5a.vercel.app](https://code-with-mainaa-3m5a.vercel.app/)
 - Reach me at **francismm2023@gmail.com**
@@ -44,13 +44,14 @@
     <img src="https://cdn.simpleicons.org/topcoder/29A7DF" alt="Topcoder" width="28" height="28" />
   </a>
 </p>
+
 ---
 
 ### Tech stack
 
 **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind,bootstrap,sass,redux,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind,bootstrap,sass,redux,wordpress,figma" />
 </p>
 
 **Backend and databases**
@@ -66,7 +67,7 @@
 
 **DevOps (learning)**
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,nginx,bash" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,githubactions,linux,nginx,bash" />
 </p>
 
 ---
